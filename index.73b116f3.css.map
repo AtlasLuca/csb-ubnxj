@@ -1,0 +1,1 @@
+{"mappings":"AAAA,KACA,sBAAA,CACA,QACA,CAEA,QACA,6BAAA,CACA,aACA","sources":["src/styles.css"],"sourcesContent":["body {\n  font-family: sans-serif;\n  margin: 0px;\n}\n\n#canvas {\n  border: 0px solid black !important;\n  display: block;\n}\n"],"names":[],"version":3,"file":"index.73b116f3.css.map"}
